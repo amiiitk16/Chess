@@ -31,7 +31,7 @@ const renderBoard = () => {
                 pieceElement.draggable = playerRole === square.color;
 
                 pieceElement.addEventListener("dragstart", () =>{
-                    
+                    //-29:20
                 })
                 
             }
